@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@300&display=swap');
 .Weebery {
   text-align: center;
 }
@@ -37,4 +38,23 @@ background-repeat: no-repeat;
 .emma p{
   margin: 2em;
   color: black;
+}
+.Indo{
+  font-family: 'Smooch Sans', sans-serif;
+
+}
+.Indo img{
+  float: left;
+  width: 200px;
+}
+.Indo p{
+  font-size: 2em;
+  letter-spacing: 3px;
+  transition: 2s;
+}
+.Indo p:hover{
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+  font-size: 4em;
 }
