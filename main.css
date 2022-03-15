@@ -1,3 +1,26 @@
 .Weebery {
   text-align: center;
 }
+.Philippo{
+height: 420px;
+border: solid black 1px;
+color: white;
+overflow: hidden;
+background-image: url(/wp4111372.jpg);
+background-size: 100% 150%;
+background-repeat: no-repeat;
+}
+.Philippo img{
+    width: 20%;
+    float: left;
+    height: 400px;
+    margin-right: 10px;
+    padding: 10px;
+    
+}
+.Philippo h1,h2,h4,p{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    color: white;
+    width: 50%;
+}
