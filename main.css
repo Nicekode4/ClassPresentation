@@ -24,3 +24,17 @@ background-repeat: no-repeat;
     color: white;
     width: 50%;
 }
+
+.emma-article{
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  margin: 1em;
+  background-color: #ccc;
+}
+.emma img{
+  width: 100%;
+}
+.emma p{
+  margin: 2em;
+  color: black;
+}
